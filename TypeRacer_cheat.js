@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Become a typing god
 // @author       You
-// @match        https://play.typeracer.com/
+// @match        https://play.typeracer.com/*
 // @require      http://code.jquery.com/jquery-3.4.1.min.js
 // @grant        none
 // ==/UserScript==
